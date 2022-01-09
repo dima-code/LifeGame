@@ -1,5 +1,6 @@
 # LifeGame
 code of 'Life' Game for Tinkoff Education
+
 Для запуска исполнить файл 'main4.0.py' через консоль в полноэкранном режиме
 
 
